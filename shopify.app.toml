@@ -2,7 +2,7 @@
 
 client_id = "fdcabf3bd0547044cca6d7a2432dfd1b"
 name = "content-blocker"
-application_url = "https://shopify.dev/apps/default-app-home"
+application_url = "https://content-blocker.onrender.com/"
 embedded = true
 
 [build]
